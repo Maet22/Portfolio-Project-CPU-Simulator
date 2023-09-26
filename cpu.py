@@ -240,7 +240,7 @@ class cpu():
 cpu1 = cpu()
 cpu1.populate_memory('memory')
 cpu1.exec_instructions_batch('instructions')
-cpu1.exec_instructions_batch('instructions')
+
 
 
 
